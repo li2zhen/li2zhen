@@ -33,4 +33,5 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=li2zhen&show_icons=true&locale=en" alt="li2zhen" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=li2zhen&" alt="li2zhen" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=li2zhen" alt="li2zhen" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=li2zhen" alt="GitHub Streak" /></a>
