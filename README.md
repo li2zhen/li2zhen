@@ -3,7 +3,8 @@
 <h3 align="center">A doctoral candidate in surgery at Huashan Hospital</h3>
 <h3 align="center">A neuro-oncology researcher</h3>
 <h3 align="center">A talented mistake maker</h3>
-***
+<br>
+<br>
 <p align="center">- 🔭 I’m currently working on <strong>neuroscience and neuroanatomy</strong></p>
 
 <p align="center">- 🌱 I’m currently learning <strong>something but getting an empty brain</strong></p>
